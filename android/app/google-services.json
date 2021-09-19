@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66049046136",
+    "project_id": "happido-61b83",
+    "storage_bucket": "happido-61b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66049046136:android:ce262f3c41b134a2f41f8d",
+        "android_client_info": {
+          "package_name": "io.happido.happido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66049046136-3bghbvthrpvv5aoook67o856l7df54il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.happido.happido",
+            "certificate_hash": "0660f4064f117657f88bb9b1eb70e3b7dfdd323b"
+          }
+        },
+        {
+          "client_id": "66049046136-pq0siut54ha4g4pq02oq9vr4p0p1rjcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcm0ZQFEOGNrZBjhsF2VA4T9CmRl5NgGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66049046136-pq0siut54ha4g4pq02oq9vr4p0p1rjcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
